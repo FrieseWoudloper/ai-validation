@@ -157,21 +157,6 @@
 
 <div class="grid cards" markdown>
 
--   ### Willy Tadema
-
-    AI Ethics Lead
-
-    ----
-
-    ![Willy Tadema](../img/willy.png){: .round }
-
-    Willy specializes in AI governance, AI risk management, AI assurance and ethics-by-design.
-    She is an advocate of AI standards and a member of several ethics committees.
-
-    [:fontawesome-brands-github: FrieseWoudloper](https://github.com/FrieseWoudloper)
-
-    [:fontawesome-brands-linkedin: Willy Tadema](https://www.linkedin.com/in/willytadema/)
-
 -   ### Lucas Haitsma
 
     Researcher in Residence
